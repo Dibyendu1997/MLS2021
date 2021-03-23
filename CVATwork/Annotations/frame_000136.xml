@@ -1,0 +1,25 @@
+<annotation>
+  <folder>frame</folder>
+  <filename>frame_000136.PNG</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>Car A</name>
+    <occluded>1</occluded>
+    <bndbox>
+      <xmin>813.07</xmin>
+      <ymin>325.82</ymin>
+      <xmax>828.47</xmax>
+      <ymax>342.56</ymax>
+    </bndbox>
+  </object>
+</annotation>
